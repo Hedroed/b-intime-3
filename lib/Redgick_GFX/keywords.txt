@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For Redgick_GFX
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Redgick_GFX	KEYWORD1
+Bitmap	KEYWORD1
+Font	KEYWORD1
+Screen	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getBitmap	KEYWORD2
+init	KEYWORD2
+clear	KEYWORD2
+getBuffer	KEYWORD2
+setPixel	KEYWORD2
+drawBitmap	KEYWORD2
+print	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FONT_DEFAULT	LITERAL1
+FONT_5X7	LITERAL1
+FONT_4X6	LITERAL1
+
+MONOCHROME	LITERAL1
+BICOLOR	LITERAL1
+RGB	LITERAL1
+
+BLACK	LITERAL1
+RED	LITERAL1
+GREEN	LITERAL1
+YELLOW	LITERAL1
+ORANGE	LITERAL1
+BLUE	LITERAL1
+MAGENTA	LITERAL1
+CYAN	LITERAL1
+WHITE	LITERAL1
+
